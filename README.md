@@ -7,18 +7,18 @@ Since 2011, I have been working in design of steel structures for oil depots and
 I always wanted to try my hand at IT, in the current realities I decided to start studying.
 Completed training on the Hexlet platform as a Manual QA Tester.
 
-####Education:
+##Education:
 - bachelor of engineering and technology, Samara State University of Architecture and Civil Engineering 2005-2009,
 - engineer, faculty of Industrial and Civil Engineering, Samara State University of Architecture and Civil Engineering 2005-2010,
 - master of engineering and technology, Samara State University of Architecture and Civil Engineering 2009-2011,
 - master of economics, dep. of Economic Valuation and Management of Assets, Real Estate and Investments, Samara State Economic University 2015-2017.
 
-####Work experience:
+##Work experience:
 - design engineer, LLC Neftekhimproekt 2011-2019,
 - design engineer, JSC SP CAEaP 2019-2021 (http://www.kvoit-samara.ru/),
 - lead engineer, LLC Globaltanksengineering 2021-2022.
 
-####Skills:
+##Skills:
 - Manual testing
 - Functional testing
 - Regression testing
@@ -34,10 +34,10 @@ Completed training on the Hexlet platform as a Manual QA Tester.
 - Postman (applied a bit, study)
 - cmd basics (applied)
 
-####CV:
+##CV:
 https://hh.ru/applicant/resumes/view?resume=536fc0e0ff0bc300760039ed1f326a50507131
 
-####Contacts:
+##Contacts:
 @Scattterbrain
 https://ru.hexlet.io/u/mootar
 https://www.linkedin.com/in/mikhail-kuskov-a4876b262/
