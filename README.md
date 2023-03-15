@@ -34,11 +34,14 @@ Completed training on the Hexlet platform as a Manual QA Tester.
 - Postman (applied a bit, study)
 - cmd basics (applied)
 
+#### Open-source participation:
+https://github.com/Hexlet/hexlet-sicp   (created 9 issues)
+
 #### CV:
 https://hh.ru/applicant/resumes/view?resume=536fc0e0ff0bc300760039ed1f326a50507131
 
 #### Contacts:
+mike.kuskov@gmail.com
+https://www.linkedin.com/in/mikhail-kuskov-a4876b262/
 @Scattterbrain
 https://ru.hexlet.io/u/mootar
-https://www.linkedin.com/in/mikhail-kuskov-a4876b262/
-mike.kuskov@gmail.com
