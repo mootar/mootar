@@ -37,6 +37,9 @@ Completed training on the Hexlet platform as a Manual QA Tester.
 #### Open-source participation:
 https://github.com/Hexlet/hexlet-sicp   (created 9 issues)
 
+#### Trial assignment:
+[from the KhanGames](https://docs.google.com/document/d/1JSyPYBxxNUmt6h6Fq1rIlESzi6oOu9wt2tw9tsnj_SQ/edit?usp=sharing)
+
 #### CV:
 https://hh.ru/applicant/resumes/view?resume=536fc0e0ff0bc300760039ed1f326a50507131
 
