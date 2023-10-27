@@ -32,7 +32,7 @@ I always wanted to try my hand at IT, in the current realities I decided to have
 - REST/SOAP API, HTML&CSS. JSON, XML, YAML, Chrome DevTools
 - SQL (basic)
 - Python (basic)
-- Selenium (basic/advanced)
+- Selenium (basic/advanced) (e.g. https://github.com/mootar/my_shop)
 - Trello
 - Git
 - Postman
